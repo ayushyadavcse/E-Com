@@ -10,7 +10,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-stone-900 text-white">
                 <Store className="h-4 w-4" />
               </div>
-              <span className="text-lg font-bold tracking-tight text-stone-900">Maison</span>
+              <span className="text-lg font-bold tracking-tight text-stone-900">Vanshika-Mart</span>
             </div>
             <p className="mt-3 max-w-xs text-sm text-stone-500">
               Thoughtfully designed objects for everyday living, from independent makers.
