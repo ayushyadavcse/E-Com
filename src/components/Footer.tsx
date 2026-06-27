@@ -42,7 +42,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-10 border-t border-stone-200 pt-6 text-center text-xs text-stone-400">
-          © {new Date().getFullYear()} Maison. All rights reserved.
+          © {new Date().getFullYear()} Vanshika-Mart. All rights reserved.
         </div>
       </div>
     </footer>
