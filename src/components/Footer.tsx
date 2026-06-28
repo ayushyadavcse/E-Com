@@ -10,7 +10,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-stone-900 text-white">
                 <Store className="h-4 w-4" />
               </div>
-              <span className="text-lg font-bold tracking-tight text-stone-900">Vanshika-Mart</span>
+              <span className="text-lg font-bold tracking-tight text-stone-900">Maison</span>
             </div>
             <p className="mt-3 max-w-xs text-sm text-stone-500">
               Thoughtfully designed objects for everyday living, from independent makers.
@@ -42,7 +42,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-10 border-t border-stone-200 pt-6 text-center text-xs text-stone-400">
-          © {new Date().getFullYear()} Vanshika-Mart. All rights reserved.
+          © {new Date().getFullYear()} Maison. All rights reserved.
         </div>
       </div>
     </footer>

@@ -34,7 +34,7 @@ export function Header({ onNavigate, currentView }: HeaderProps) {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-stone-900 text-white">
             <Store className="h-5 w-5" />
           </div>
-          <span className="text-lg font-bold tracking-tight text-stone-900">Vanshika-Mart</span>
+          <span className="text-lg font-bold tracking-tight text-stone-900">Maison</span>
         </button>
 
         <nav className="hidden items-center gap-8 md:flex">
